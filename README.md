@@ -4,7 +4,7 @@ Implementation of `Convolutional Neural Network` for recognize face emotion. we'
 
 <img src="output/output2.jpg">
 <small>image source : </small>
-<small><i>"https://www.boisestate.edu/news/2019/03/18/boise-state-receives-delegation-from-taiyuan-institute-of-technology/"</i></small>
+<small><i>https://www.boisestate.edu/news/2019/03/18/boise-state-receives-delegation-from-taiyuan-institute-of-technology/</i></small>
 
 ## How to use
 
@@ -49,4 +49,4 @@ This models can predict 7 type of face emotion
 | suprised | 6 |
 
 ## About Data
-Thanks to [ananthu017](https://www.kaggle.com/ananthu017/) for providing emotion dataset on [kaggle]("https://www.kaggle.com/ananthu017/emotion-detection-fer"). We've train this model using those data.
+Thanks to [ananthu017](https://www.kaggle.com/ananthu017/) for providing emotion dataset on [kaggle](https://www.kaggle.com/ananthu017/emotion-detection-fer). We've train this model using those data.
